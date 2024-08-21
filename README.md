@@ -1,8 +1,4 @@
-Hello, My name is Rizky Putra Mahendra, you can call me Rizky. Im eighth semester student studying Computer Science at Budi Luhur Univeristy.
-Currently Im intersted in developing Website front-end, back-end or both using Javascript!
-My current tech stack is PostgreSQL, ExpressJS, ReactJS and NodeJS.
-
-You can reach me at my email rizkymahendra2346@gmail.com
+Software developer with a passion for solving complex problems and creating elegant solutions. With a strong foundation in computer science concepts, I have developed a diverse skill set that includes experience in JavaScript programming languages, with ReactJS library. My ability to learn quickly, attention to detail, and strong communication skills make me a valuable asset to any team.
 
 <!---
 rizky-pm/rizky-pm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
